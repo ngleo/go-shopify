@@ -1,6 +1,6 @@
-module github.com/bold-commerce/go-shopify/v3
+module github.com/ngleo/go-shopify/v3
 
-go 1.13
+go 1.15
 
 require (
 	github.com/google/go-querystring v1.0.0
